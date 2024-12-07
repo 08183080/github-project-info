@@ -1,0 +1,7 @@
+/build/
+/dist/
+/myenv/
+app.spec
+.env
+*.pyc
+__pycache__/
