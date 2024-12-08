@@ -1,0 +1,34 @@
+[2024-12-08 13:13:38 +0800] [9761] [INFO] Starting gunicorn 23.0.0
+[2024-12-08 13:13:38 +0800] [9761] [INFO] Listening at: http://127.0.0.1:5000 (9761)
+[2024-12-08 13:13:38 +0800] [9761] [INFO] Using worker: sync
+[2024-12-08 13:13:38 +0800] [9763] [INFO] Booting worker with pid: 9763
+[2024-12-08 13:13:39 +0800] [9764] [INFO] Booting worker with pid: 9764
+[2024-12-08 13:20:11 +0800] [9764] [INFO] Parent changed, shutting down: <Worker 9764>
+[2024-12-08 13:20:11 +0800] [9764] [INFO] Worker exiting (pid: 9764)
+[2024-12-08 13:20:11 +0800] [9763] [INFO] Parent changed, shutting down: <Worker 9763>
+[2024-12-08 13:20:11 +0800] [9763] [INFO] Worker exiting (pid: 9763)
+[2024-12-08 13:20:26 +0800] [10081] [INFO] Starting gunicorn 23.0.0
+[2024-12-08 13:20:26 +0800] [10081] [INFO] Listening at: http://127.0.0.1:5000 (10081)
+[2024-12-08 13:20:26 +0800] [10081] [INFO] Using worker: sync
+[2024-12-08 13:20:26 +0800] [10083] [INFO] Booting worker with pid: 10083
+[2024-12-08 13:20:26 +0800] [10084] [INFO] Booting worker with pid: 10084
+[2024-12-08 13:23:00 +0800] [10083] [INFO] Parent changed, shutting down: <Worker 10083>
+[2024-12-08 13:23:00 +0800] [10083] [INFO] Worker exiting (pid: 10083)
+[2024-12-08 13:23:00 +0800] [10084] [INFO] Parent changed, shutting down: <Worker 10084>
+[2024-12-08 13:23:00 +0800] [10084] [INFO] Worker exiting (pid: 10084)
+[2024-12-08 13:23:22 +0800] [10316] [INFO] Starting gunicorn 23.0.0
+[2024-12-08 13:23:22 +0800] [10316] [INFO] Listening at: http://0.0.0.0:5000 (10316)
+[2024-12-08 13:23:22 +0800] [10316] [INFO] Using worker: sync
+[2024-12-08 13:23:22 +0800] [10318] [INFO] Booting worker with pid: 10318
+[2024-12-08 13:23:22 +0800] [10319] [INFO] Booting worker with pid: 10319
+[2024-12-08 13:25:56 +0800] [10319] [INFO] Parent changed, shutting down: <Worker 10319>
+[2024-12-08 13:25:56 +0800] [10319] [INFO] Worker exiting (pid: 10319)
+[2024-12-08 13:27:59 +0800] [11527] [INFO] Starting gunicorn 23.0.0
+[2024-12-08 13:27:59 +0800] [11527] [INFO] Listening at: http://0.0.0.0:5000 (11527)
+[2024-12-08 13:27:59 +0800] [11527] [INFO] Using worker: sync
+[2024-12-08 13:27:59 +0800] [11530] [INFO] Booting worker with pid: 11530
+[2024-12-08 13:27:59 +0800] [11531] [INFO] Booting worker with pid: 11531
+[2024-12-08 13:29:31 +0800] [11530] [INFO] Parent changed, shutting down: <Worker 11530>
+[2024-12-08 13:29:31 +0800] [11530] [INFO] Worker exiting (pid: 11530)
+[2024-12-08 13:29:31 +0800] [11531] [INFO] Parent changed, shutting down: <Worker 11531>
+[2024-12-08 13:29:31 +0800] [11531] [INFO] Worker exiting (pid: 11531)
