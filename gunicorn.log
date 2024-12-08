@@ -1,0 +1,6 @@
+nohup: ignoring input
+[2024-12-08 20:42:24 +0800] [22338] [INFO] Starting gunicorn 23.0.0
+[2024-12-08 20:42:24 +0800] [22338] [INFO] Listening at: http://0.0.0.0:5000 (22338)
+[2024-12-08 20:42:24 +0800] [22338] [INFO] Using worker: sync
+[2024-12-08 20:42:24 +0800] [22340] [INFO] Booting worker with pid: 22340
+[2024-12-08 20:42:24 +0800] [22341] [INFO] Booting worker with pid: 22341

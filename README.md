@@ -14,8 +14,17 @@
 # 命令
 ## 开启web服务器
 
-监听来自网络所有流量的请求
+监听来自网络所有流量的请求\
 ```gunicorn -w 2 -b 0.0.0.0:5000 web:app```
+
+
+将项目变成后台运行\
+```nohup gunicorn -w 2 -b 0.0.0.0:5000 web:app > gunicorn.log 2>&1 &```
+
+
+查看端口\
+```lsof -i:5000```
+
 
 ## 检查nginx反向代理器状态
 ```sudo systemctl status nginx```
